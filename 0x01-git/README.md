@@ -1,2 +1,2 @@
 My first readme in this folder.
-Updated in GitHub
+My first readme in this folder. Updated in GitHub
